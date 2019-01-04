@@ -1,2 +1,2 @@
-# FreeRTOS_QEMU
-FreeRTOS on QEMU for spike machine
+# FreeRTOS_RISC-V QEMU
+FreeRTOS on RISC-V QEMU for spike machine
